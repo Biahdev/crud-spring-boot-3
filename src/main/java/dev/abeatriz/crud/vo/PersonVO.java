@@ -30,6 +30,5 @@ public class PersonVO implements Serializable {
     // @JsonIgnore
     private String occupation;
     private String phone;
-    private String mail;
 
 }

@@ -27,9 +27,6 @@ public class Person implements Serializable {
     private String occupation;
     @Column(nullable = false, length = 20)
     private String phone;
-    @Column(nullable = false, length = 100)
-    private String mail;
-
 
 
 }
