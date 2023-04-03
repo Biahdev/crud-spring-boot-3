@@ -46,7 +46,6 @@ public class PersonService {
 
         personEntity.setFirstName(personVo.getFirstName());
         personEntity.setLastName(personVo.getLastName());
-        personEntity.setAge(personVo.getAge());
         personEntity.setOccupation(personVo.getOccupation());
         personEntity.setMail(personVo.getMail());
         personEntity.setPhone(personVo.getPhone());

@@ -29,7 +29,6 @@ public class PersonVO implements Serializable {
     private String lastName;
     // @JsonIgnore
     private String occupation;
-    private int age;
     private String phone;
     private String mail;
 
